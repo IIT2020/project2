@@ -1,6 +1,25 @@
 html {
-	min-width: 320px;
+	overflow: auto;
 	color: #222;
+}
+
+body {
+	font-family: 'Ubuntu', 'Arimo', sans-serif !important;
+}
+
+html,
+body {
+	height: 100%;
+	width: 100%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: 'Abel', 'Didact Gothic', sans-serif !important;
 }
 
 .line {
